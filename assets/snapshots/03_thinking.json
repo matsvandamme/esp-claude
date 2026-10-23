@@ -1,0 +1,32 @@
+{
+ "t": "snap",
+ "f": {
+  "p": "esp-claude",
+  "m": "Opus 5.5",
+  "v": "Clauding",
+  "el": 12,
+  "nt": 3,
+  "sub": 0,
+  "tl": [
+   [
+    "Read",
+    "spec-claude-display.md",
+    0
+   ]
+  ],
+  "st": "think"
+ },
+ "s": [
+  "think"
+ ],
+ "fi": 0,
+ "m": {
+  "ctx": 52,
+  "ctk": 104000,
+  "cw": 200000,
+  "h5": 23,
+  "d7": 41,
+  "h5r": 8040,
+  "d7r": 273600
+ }
+}

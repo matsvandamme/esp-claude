@@ -1,0 +1,34 @@
+{
+ "t": "snap",
+ "f": {
+  "p": "esp-claude",
+  "m": "Opus 5.5",
+  "v": "Clauding",
+  "el": 12,
+  "nt": 18,
+  "sub": 0,
+  "tl": [
+   [
+    "Bash",
+    "git push origin main",
+    1
+   ]
+  ],
+  "st": "perm",
+  "w": "Bash: git push origin main",
+  "ws": 75
+ },
+ "s": [
+  "perm"
+ ],
+ "fi": 0,
+ "m": {
+  "ctx": 52,
+  "ctk": 104000,
+  "cw": 200000,
+  "h5": 23,
+  "d7": 41,
+  "h5r": 8040,
+  "d7r": 273600
+ }
+}

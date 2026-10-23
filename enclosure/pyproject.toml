@@ -1,0 +1,17 @@
+[project]
+name = "claude-display-enclosure"
+version = "0.1.0"
+description = "Desk stand for the ESP32-C6-LCD-1.47 Claude Code display"
+requires-python = ">=3.12,<3.14"
+dependencies = [
+    "build123d",
+    "trimesh",
+    "manifold3d",
+    "matplotlib",
+    "numpy",
+    "scipy",
+    "networkx",
+    "lxml",
+    "shapely>=2.2.0",
+    "rtree>=1.4.1",
+]

@@ -1,0 +1,37 @@
+{
+ "t": "snap",
+ "f": {
+  "p": "esp-claude",
+  "m": "Opus 5.5",
+  "v": "Clauding",
+  "el": 12,
+  "nt": 18,
+  "sub": 0,
+  "tl": [
+   [
+    "Bash",
+    "npm test",
+    1
+   ],
+   [
+    "Edit",
+    "firmware/main/ui.c",
+    0
+   ]
+  ],
+  "st": "tool"
+ },
+ "s": [
+  "tool"
+ ],
+ "fi": 0,
+ "m": {
+  "ctx": 52,
+  "ctk": 104000,
+  "cw": 200000,
+  "h5": 23,
+  "d7": 41,
+  "h5r": 8040,
+  "d7r": 273600
+ }
+}

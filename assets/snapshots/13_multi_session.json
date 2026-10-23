@@ -1,0 +1,82 @@
+{
+ "t": "snap",
+ "f": {
+  "p": "trading-bot",
+  "m": "Sonnet 5.5",
+  "v": "Clauding",
+  "el": 12,
+  "nt": 18,
+  "sub": 0,
+  "tl": [
+   [
+    "Bash",
+    "npm test",
+    1
+   ],
+   [
+    "Edit",
+    "firmware/main/ui.c",
+    0
+   ]
+  ],
+  "st": "tool"
+ },
+ "s": [
+  "done",
+  "tool",
+  "think",
+  "idle",
+  "perm"
+ ],
+ "fi": 1,
+ "m": {
+  "ctx": 52,
+  "ctk": 104000,
+  "cw": 200000,
+  "h5": 23,
+  "d7": 41,
+  "h5r": 8040,
+  "d7r": 273600
+ },
+ "ss": [
+  [
+   "home-lab",
+   "done",
+   840,
+   -1,
+   1
+  ],
+  [
+   "trading-bot",
+   "tool",
+   12,
+   6986700,
+   0
+  ],
+  [
+   "esp-claude",
+   "think",
+   40,
+   -1,
+   0
+  ],
+  [
+   "notes",
+   "idle",
+   7300,
+   -1,
+   0
+  ],
+  [
+   "api-server",
+   "perm",
+   95,
+   1483594,
+   0
+  ]
+ ],
+ "od": {
+  "p": "home-lab",
+  "n": 1
+ }
+}

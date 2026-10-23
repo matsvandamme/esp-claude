@@ -1,0 +1,20 @@
+{
+ "t": "snap",
+ "f": {
+  "p": "esp-claude",
+  "m": "Opus 5.5",
+  "v": "Booping",
+  "el": 1,
+  "nt": 0,
+  "sub": 0,
+  "tl": [],
+  "st": "start"
+ },
+ "s": [
+  "start"
+ ],
+ "fi": 0,
+ "m": {
+  "ctx": -1
+ }
+}
